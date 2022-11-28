@@ -1,5 +1,5 @@
 colorama
 requests
-colorwed
+colorobject3
 pandas
 ctypes
