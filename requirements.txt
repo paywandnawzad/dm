@@ -1,5 +1,5 @@
 colorama
 requests
-pywx
+pywy
 pandas
 ctypes
