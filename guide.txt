@@ -1,0 +1,21 @@
+Install Python from the website (NOT WINDOWS STORE)
+
+Open cmd.exe and run those commands
+
+pip install requests
+pip install discord.py
+pip install capmonster_python
+pip install colorama
+
+
+Files:
+
+config.json (Settings)
+tokens.txt (Put your tokens in "token" only format)
+ids.txt (Put Scraped IDS)
+
+Config:
+
+- proxy: (username:password@ip:port) OR (ip:port)
+- capmonster_apikey: "your apikey"
+- server_id: "targetted server id, it will check if tokens are valid / still in the server IF NOT will automatically remove them from the tokens pool"
