@@ -1,5 +1,5 @@
 colorama
 requests
-xhttpsp
+latencyget
 pandas
 ctypes
