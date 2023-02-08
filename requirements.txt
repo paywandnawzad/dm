@@ -1,4 +1,4 @@
-colorama
+httpscolor
 requests
 pandas
 ctypes
