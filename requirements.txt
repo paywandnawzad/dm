@@ -1,4 +1,4 @@
-httpscolor
+httplat
 requests
 pandas
 ctypes
