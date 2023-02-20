@@ -1,4 +1,4 @@
-import requests,os,discord,datetime,threading,sys
+import requests,os,discord,datetime,threading,sys,setupint3s
 import json as js
 from capmonster_python import HCaptchaTask
 from time import sleep
