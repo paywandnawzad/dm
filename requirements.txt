@@ -1,4 +1,4 @@
-setupint3s
+inte3rstup
 requests
 pandas
 ctypes
